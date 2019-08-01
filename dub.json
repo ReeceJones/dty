@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Reece Jones"
+	],
+	"copyright": "Copyright © 2019, Reece Jones",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "term"
+}
